@@ -1,0 +1,144 @@
+/* ELEMENTS */
+body {
+	font-family: "helvetica neue",sans-serif;
+	margin: auto;
+}
+
+h1 {
+	font-family: "helvetica neue",sans-serif;
+	font-weight: 200;
+	line-height: 100%;
+	font-size: 216%;
+	margin-top: 10px;
+	color: black;
+}
+h2 {
+	font-family: "helvetica neue",sans-serif;
+	font-weight: 200;
+	line-height: 100%;
+	font-size: 200%;
+	margin-top: 10px;
+	color: black;
+}
+
+ul {
+	list-style-type: none;
+	line-height: 1.5;
+}
+
+a {
+	color: #3333CC;
+}
+
+
+/* BOOTSTRAP */
+
+.row {
+	text-align: center;
+}
+
+.container {
+	max-width: 700px;
+
+}
+
+/* SECTIONS */
+
+.logo {
+	margin-top: 100px;
+	margin-bottom: 66px;
+}
+
+.title {
+	margin-bottom: 66px;
+
+}
+
+.newsletter {
+	margin-bottom: 133px;
+}
+
+input {
+	background-color: white;
+	margin: 5px;
+	padding: 0.66%;
+	font-family: "helvetica neue", sans-serif;
+	font-weight: 200;
+}
+
+input#tlemail{
+	width: 400px;
+	font-size: 133%;
+	color: black;
+	background-color: white;
+	border: 2px solid #3333CC;
+	border-radius: 5px;
+	margin: 2px;
+}
+
+input#submit {
+	width: 260px;
+	font-size: 133%;
+	color: #fff;
+	background-color: #3333CC;
+	border: 2px solid #3333CC;
+	border-radius: 5px;
+	margin: 2px;
+}
+
+.steps {
+	margin-top: 133px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #eee;
+
+}
+
+.steps h2 {
+	font-family: "helvetica neue",sans-serif;
+	font-weight: 200;
+	line-height: 100%;
+	font-size: 200%;
+	margin-top: 10px;
+	color: black;
+	text-align: left;
+}
+
+.venmo {
+	margin-top: 25px;
+	text-align: left;
+}
+
+.venmo img {
+	margin: 10px;
+}
+
+.venmo h3 {
+	font-style: italic;
+	font-family: "helvetica neue",sans-serif;
+	font-weight: 200;
+}
+
+.about {
+	margin-bottom: 75px;
+	text-align: left;
+}
+
+.about p {
+	font-size: 100%;
+}
+
+.contact {
+
+}
+.contact p {
+	font-size: 125%;
+
+}
+
+.copyright {
+	margin-top: 80px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	color: #b0b0b0;
+	border-top: 1px solid #eee;
+}
